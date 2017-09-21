@@ -1,3 +1,13 @@
-body{
+body {
   color: #1F3A44
+}
+h1 {
+  color: white;
+  font-family: 'Khmer';
+  text-align: center;
+}
+p {
+  color: white;
+  font-family: 'Khmer';
+  text-align: center;
 }
