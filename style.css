@@ -14,6 +14,10 @@ p {
 table {
   width: 100%;
   color: #6723FF;
-  font-family: 'Khmer'
-  text-top;
+  font-family: 'Khmer';
+}
+td {
+  vertical-align: text-top;
+  color: #6723FF;
+  font-family: 'Khmer';
 }
