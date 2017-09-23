@@ -11,3 +11,8 @@ p {
   font-family: 'Khmer';
   text-align: center;
 }
+table {
+  width: 100%;
+  color: #6723FF;
+  font-family: 'Khmer'
+}
