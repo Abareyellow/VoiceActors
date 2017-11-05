@@ -1,5 +1,5 @@
 body {
- background-image: image("background.jpg");
+ background-image: url("background.jpg");
 }
 h1 {
   color: #34AB78;
