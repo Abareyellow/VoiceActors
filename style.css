@@ -22,6 +22,11 @@ td {
   font-family: 'Khmer';font-size: 22px;
   text-align: left;
 }
+h2 {
+  color: #34AB78;
+  font-family: 'Khmer';
+  text-align: center;
+}
 ul {
   text-align: left;
 }
