@@ -8,18 +8,20 @@ h1 {
 }
 p {
   font-family: 'Khmer';
-  text-align: center;
+  text-align: left;
+  color: #2CF4E4;
 }
 table {
   width: 100%;
   font-family: 'Khmer';
+  border-collapse: collapse;
 }
 th, td {
   padding: 8px;
   vertical-align: top;
-  color: #006600;
-  font-family: 'Khmer';font-size: 18px;
   text-align: left;
+  color: #000000;
+  font-family: 'Khmer';font-size: 18px;
   border-bottom: 1px solid #ddd;
 }
 tr:nth-child(even){
@@ -38,4 +40,10 @@ h2 {
 }
 ul {
   text-align: left;
+}
+h3 {
+  color: #34AB78;
+  font-family: 'Khmer';
+  font-size: 25px;
+  text-align: center;
 }
