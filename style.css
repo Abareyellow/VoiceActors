@@ -33,6 +33,9 @@ tr:nth-child(odd){
 th {
   background-color: #1F3A44;
 }
+td {
+  text-align: left;
+}
 h2 {
   color: #34AB78;
   font-family: 'Khmer';
