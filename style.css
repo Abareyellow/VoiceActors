@@ -22,7 +22,6 @@ th, td {
   text-align: left;
   color: #000000;
   font-family: 'Khmer';font-size: 18px;
-  border-bottom: 1px solid #ddd;
 }
 tr:nth-child(even){
   background-color: #ED457A;
