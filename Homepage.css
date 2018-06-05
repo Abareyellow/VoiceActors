@@ -1,0 +1,78 @@
+body {
+  background-color: #1F3A44;
+}
+h1 {
+  color: #34AB78;
+  font-family: 'Khmer';
+}
+p{
+  color: #34AB78;
+  font-family: 'Khmer';
+}
+header {
+  padding: 20px 0;
+  background-color: #1F3A44;
+}
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+header h1 {
+  font-weight: 700;
+  margin: 0;
+  color: #34AB78;
+  font-family: 'Khmer';
+  background-color: #1F3A44;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+  font-family: 'Khmer';
+  color: #2CF4E4;
+}
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url("JVoiceActor.jpg");
+  background-size: cover;
+  height: 590px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+  background-color: #1F3A44;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+  background-color: #1F3A44;
+}
+
+.col-md-6 {
+  margin: 0 0 30px;
+}
+
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
