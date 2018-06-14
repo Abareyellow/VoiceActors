@@ -25,12 +25,6 @@ th, td {
   color: #000000;
   font-family: 'Khmer';font-size: 18px;
 }
-tr:nth-child(even){
-  background-color: #ED457A;
-}
-tr:nth-child(odd){
-  background-color: #62BCFA
-}
 th {
   background-color: #1F3A44;
 }
@@ -50,4 +44,106 @@ h3 {
   font-family: 'Khmer';
   font-size: 25px;
   text-align: center;
+}
+#FairyTail {
+  background-color: #ff3333;
+}
+#YourLieInApril {
+  background-color: #7AD2F8;
+}
+#FoodWars {
+  background-color: #F9A93D;
+}
+#KinoJourney {
+  background-color: #9EF78B;
+}
+#PrettyCure {
+  background-color: #FF8EF0;
+}
+#FullmetalAlchemist {
+  background-color: #CFCDCD;
+}
+#DeathNote {
+  background-color: #000000;
+}
+#Pokemon {
+  background-color: #EDE01B;
+}
+#SoulEater {
+  background-color: #AF0E0E;
+}
+#PandoraHearts {
+  background-color: #FFFFFF;
+}
+#Fate {
+  background-color: #F76637;
+}
+#ASilentVoice {
+  background-color: #F9D4F5;
+}
+#RaveMaster {
+  background-color: #2333F9;
+}
+#RomeoxJuliet {
+  background-color: #14AEF1;
+}
+#ChronoCrusade {
+  background-color: #F1C63E;
+}
+#SevenDeadlySin {
+  background-color: #E8AAFF;
+}
+#YourName {
+  background-color: #85FFF0;
+}
+#SwordArtOnline {
+  background-color: #3CAFAF;
+}
+#DinosaurKing {
+  background-color: #26A622;
+}
+#TheAncientMagusBride {
+  background-color: #EECF5A;
+}
+#CardcaptorSakura {
+  background-color: #B65AEE;
+}
+#AllisonandLillia {
+  background-color: #4B0575;
+}
+#TheGirlWhoLeaptThroughTime {
+  background-color: #2B3485;
+}
+#AlderaminsOnTheSky {
+  background-color: #184329;
+}
+#HowlingsMovingCastle {
+  background-color: #00CC00;
+}
+#ChildrenWhoChaseLostVoices {
+  background-color: ##800080;
+}
+#JuuniTaisen {
+  background-color: #660000;
+}
+#DiesIrae {
+  background-color: #00CC7A;
+}
+#TheIrregularAtMagicHighSchool {
+  background-color: #EBF6F9;
+}
+#Orange {
+  background-color: #FFA500;
+}
+#TheSecretWorldOfArrietty {
+  background-color: #33CC33;
+}
+#Urahara {
+  background-color: #FFE6FF;
+}
+#RecoveryOfAnMMOJunkie {
+  background-color: #0000FF;
+}
+#SpiritedAway {
+  background-color: #FF3377;
 }
