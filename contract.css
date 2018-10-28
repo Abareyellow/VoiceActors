@@ -1,0 +1,140 @@
+body {
+  background-color: #1F3A44;
+}
+h1 {
+  color: #34AB78;
+  font-family: 'Khmer';
+  text-align: center;
+}
+p {
+  font-family: 'Khmer';
+  text-align: center;
+  color: #2CF4E4;
+  size: 20px;
+  font-size: 20px;
+}
+table {
+  width: 100%;
+  font-family: 'Khmer';
+  border-collapse: collapse;
+}
+th, td {
+  padding: 8px;
+  vertical-align: top;
+  text-align: left;
+  color: #000000;
+  font-family: 'Khmer';font-size: 18px;
+}
+h2 {
+  color: #34AB78;
+  font-family: 'Khmer';
+  text-align: center;
+}
+#FairyTail {
+  background-color: #ff3333;
+}
+#YourLieInApril {
+  background-color: #7AD2F8;
+}
+#FoodWars {
+  background-color: #F9A93D;
+}
+#KinoJourney {
+  background-color: #9EF78B;
+}
+#PrettyCure {
+  background-color: #FF8EF0;
+}
+#FullmetalAlchemist {
+  background-color: #CFCDCD;
+}
+#DeathNote {
+  background-color: #000000;
+}
+#Pokemon {
+  background-color: #EDE01B;
+}
+#SoulEater {
+  background-color: #AF0E0E;
+}
+#PandoraHearts {
+  background-color: #FFFFFF;
+}
+#Fate {
+  background-color: #F76637;
+}
+#ASilentVoice {
+  background-color: #F9D4F5;
+}
+#RaveMaster {
+  background-color: #2333F9;
+}
+#RomeoxJuliet {
+  background-color: #14AEF1;
+}
+#ChronoCrusade {
+  background-color: #F1C63E;
+}
+#SevenDeadlySin {
+  background-color: #E8AAFF;
+}
+#YourName {
+  background-color: #85FFF0;
+}
+#SwordArtOnline {
+  background-color: #3CAFAF;
+}
+#DinosaurKing {
+  background-color: #26A622;
+}
+#TheAncientMagusBride {
+  background-color: #EECF5A;
+}
+#CardcaptorSakura {
+  background-color: #FF33CC;
+}
+#AllisonandLillia {
+  background-color: #4B0575;
+}
+#TheGirlWhoLeaptThroughTime {
+  background-color: #2B3485;
+}
+#AlderaminsOnTheSky {
+  background-color: #184329;
+}
+#HowlingsMovingCastle {
+  background-color: #00CC00;
+}
+#ChildrenWhoChaseLostVoices {
+  background-color: #89BA80;
+}
+#JuuniTaisen {
+  background-color: #660000;
+}
+#DiesIrae {
+  background-color: #00CC7A;
+}
+#TheIrregularAtMagicHighSchool {
+  background-color: #EBF6F9;
+}
+#Orange {
+  background-color: #FFA500;
+}
+#TheSecretWorldOfArrietty {
+  background-color: #33CC33;
+}
+#Urahara {
+  background-color: #FFE6FF;
+}
+#RecoveryOfAnMMOJunkie {
+  background-color: #0000FF;
+}
+#SpiritedAway {
+  background-color: #FF3377;
+}
+#SailorMoon {
+  background-color: #8B58DD;
+}
+#BlackButler {
+  background-color: #110C30;
+}
