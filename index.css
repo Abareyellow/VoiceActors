@@ -8,6 +8,7 @@ h1 {
 p {
   color: #34AB78;
   font-family: 'Khmer';
+  vertical-align: middle;
 }
 header {
   padding: 20px 0;
@@ -29,6 +30,7 @@ header h1 {
 header nav {
   display: flex;
   justify-content: flex-end;
+  vertical-align: bottom;
 }
 
 header p {
@@ -36,6 +38,39 @@ header p {
   margin: 0;
   font-family: 'Khmer';
   color: #2CF4E4;
+}
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+.dropbtn:hover, .dropbtn {
+  background-color: #2980B9;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  box-shadow: 0px 8px 18px 0px rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+.dropdown-content a {
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  color: black;
+}
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+.show {
+  display: block;
 }
 .jumbotron {
   display: flex;
@@ -48,35 +83,18 @@ header p {
 }
 
 section .row img {
-  margin: 0 0 30px;
   width: 100%;
   background-color: #1F3A44;
 }
 
 .col-md-6 {
-  margin: 0 0 30px;
+  margin: 8px 8px 8px 200px;
+}
+.col-sm-4 {
+  margin: 8px 200px 8px 8px;
 }
 
 section td {
   padding: 1200px;
   width: 100px;
-}
-
-footer {
-  font-size: 12px;
-  padding: 20px 0;
-}
-
-footer .col-sm-8 {
-  display: flex;
-  justify-content: flex-end;
-}
-
-footer ul {
-  list-style: none;
-}
-
-footer li img {
-  width: 32px;
-  height: 32px;
 }
