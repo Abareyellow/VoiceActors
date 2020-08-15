@@ -45,6 +45,9 @@ h3 {
   font-size: 25px;
   text-align: center;
 }
+.white_font {
+  color: #FFFFFF !important;
+}
 #FairyTail {
   background-color: #FF3333;
 }
@@ -225,4 +228,7 @@ h3 {
 }
 #TheRoyalTutor {
   background-color: #9AA7D7;
+}
+#Anohana {
+  background-color: #02F0FC;
 }
