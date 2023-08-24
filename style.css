@@ -45,6 +45,9 @@ h3 {
   font-size: 25px;
   text-align: center;
 }
+.white_font {
+  color: #FFFFFF !important;
+}
 #FairyTail {
   background-color: #FF3333;
 }
@@ -142,7 +145,7 @@ h3 {
   background-color: #FFE6FF;
 }
 #RecoveryOfAnMMOJunkie {
-  background-color: #0000FF;
+  background-color: #905AF5;
 }
 #SpiritedAway {
   background-color: #FF3377;
@@ -218,4 +221,38 @@ h3 {
 }
 #AnimalCrossing {
   background-color: #25EB42;
+}
+#PerfectBlue {
+  background-color: #0000F9;
+  color: #FFFFFF;
+}
+#TheRoyalTutor {
+  background-color: #9AA7D7;
+}
+#Anohana {
+  background-color: #02F0FC;
+}
+#AWhiskerAway {
+  background-color: #8FCF88;
+}
+#Izetta {
+  background-color: #FD504B;
+}
+#BurntheWitch {
+  background-color: #0EC5AF;
+}
+#ThePromisedNeverland {
+  background-color: #241F33;
+}
+#ImStandingonaMillionLives {
+  background-color: #7048E7;
+}
+#NinoKuni {
+  background-color: #89DE43;
+}
+#UndefeatedBahamutChronicles {
+  background-color: #6E8CE7;
+}
+#BytheGraceoftheGods {
+  background-color: #18D0EC;
 }
